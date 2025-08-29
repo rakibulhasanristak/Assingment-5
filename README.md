@@ -1,5 +1,5 @@
 DOM Manipulation in JavaScript
--nine
+
 1. Difference Between getElementById, getElementsByClassName, and querySelector/querySelectorAll
 These methods select HTML elements from the DOM but differ in selection criteria and return values.
 
